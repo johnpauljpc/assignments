@@ -1,0 +1,47 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  background{
+    background: #eee;
+    margin: auto;
+    display: block;
+    align-items: center;
+    justify-items: center;
+    
+  
+  }
+  
+  a{
+    text-decoration: none;
+    color: rgb(121, 223,144)
+  }
+  a:hover{
+    background: rgb(121, 223,144);
+    color: white;
+    padding: 3px;
+  }
+  h1{
+    color: rgb(121, 223,144) ;
+  }
+  
+  input{
+    margin: 0px 0px 10px;
+    padding: 4px;
+  }
+  
+  button{
+    color: white;
+    background: rgb(121, 223,144);
+    border: none;
+    padding: 10px;
+    align-items: center;
+    border-radius: 70%;
+    
+  }
+  .button:hover {background-color: #3e8e41;
+    border: solid 4px rgb(121, 223,144); }
+  div{
+    padding: 20px;
+  }
+  
